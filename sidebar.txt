@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgw:home|Door43 (tgw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgw|d43-tgw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgw/archive/master.zip|d43-tgw.zip]]
+
+**Recent Changes**
+{{changes>ns = tgw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgw|Ethnologue data]]
+
